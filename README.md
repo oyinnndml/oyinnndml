@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alina
 - 👀 I’m interested in building websites
-- 🌱 I’m currently learning how to build static websites like Hugo
+- 🌱 I’m currently building static websites with Hugo and Wordpress
 - 💞️ I’m looking to collaborate on projects that involves building websites using Hugo
 - 📫 How to reach me: I am reachable through my email address; alinaoleksandra2599@gmail.com
 
